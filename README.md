@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Yusuf
 
-<!--
-**myusufdermawan/myusufdermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer • AI & Blockchain Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Building digital products
+- 🌱 Learning AI, Blockchain, and System Design
+- 🎯 Goal: Build impactful technology platforms
+- ⚡ Focused on clean code & scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, Next.js
+- Backend: Node.js, Express
+- Database: PostgreSQL, MongoDB
+- Tools: Git, Docker, Linux
+
+## 📫 Connect With Me
+- LinkedIn: [https://linkedin.com/in/myusufdermawan]
+- YouTube: [https://youtube.com/@myusufdermawan]
