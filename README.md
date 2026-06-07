@@ -36,7 +36,7 @@ Software Engineering
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 
 🎯
 
