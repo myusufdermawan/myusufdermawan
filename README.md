@@ -3,50 +3,26 @@
 ## 👨‍💻 About Me
 I'm a passionate Fullstack Developer who loves turning ideas into real products. I enjoy working with modern technologies, building scalable applications, and contributing to open source projects.
 
-<div>
-<tr>
+<div align="center">
 
-<td align="center" width="25%">
-
-🌏
-
-### Based In
-
+🔵 <b>Based in</b><br>
 Indonesia
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="25%">
+💼 <b>Open to</b><br>
+Opportunities
 
-💼
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Open To
-
-Internships & Opportunities
-
-</td>
-
-<td align="center" width="25%">
-
-⚡
-
-### Focused On
-
+⚡ <b>Focused on</b><br>
 Software Engineering
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="25%">
-
-🎯
-
-### 2026 Goal
-
+🎯 <b>2026 Goal</b><br>
 Become Job Ready
 
-</td>
-
-</tr>
 </div>
 
 # 🛠 Tech Stack
