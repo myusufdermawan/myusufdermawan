@@ -6,7 +6,7 @@ I'm a passionate Fullstack Developer who loves turning ideas into real products.
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 
 🌏
 
@@ -16,7 +16,7 @@ Indonesia
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 
 💼
 
@@ -26,7 +26,7 @@ Internships & Opportunities
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 
 ⚡
 
