@@ -176,6 +176,9 @@ Aplikasi manajemen keuangan pribadi.
 
 **Tech Stack**
 
+![quotes](w2.png)
+
+
 `React` `Node.js` `MongoDB`
 
 ⭐ 610 Stars
