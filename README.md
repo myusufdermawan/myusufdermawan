@@ -182,8 +182,8 @@ Aplikasi manajemen keuangan pribadi.
 
 </td>
 
-![quotes](w2.png)
-
 </tr>
 
 </table> 
+
+![quotes](w2.png)
