@@ -2,73 +2,121 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who enjoys turning ideas into real products.
+I'm a passionate Fullstack Developer who loves turning ideas into real products. I enjoy working with modern technologies, building scalable applications, and contributing to open source projects.
 
-- 🌏 Based in Indonesia
-- 💼 Open to opportunities
-- ⚡ Currently focused on Software Engineering & Blockchain
-- 🎯 Goal 2026: Build SaaS Products & Become a Professional Developer
+<table>
+<tr>
 
----
+<td align="center" width="25%">
 
-## 📊 Quick Stats
+🌏
 
-<div align="center">
+### Based In
 
-| 🌏 Location | 💼 Status | ⚡ Focus | 🎯 Goal |
-|------------|-----------|-----------|-----------|
-| Indonesia | Open to Work | Clean Code | Build SaaS |
+Indonesia
 
-</div>
+</td>
 
----
+<td align="center" width="25%">
+
+💼
+
+### Open To
+
+Internships & Opportunities
+
+</td>
+
+<td align="center" width="25%">
+
+⚡
+
+### Focused On
+
+Software Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+🎯
+
+### 2026 Goal
+
+Become Job Ready
+
+</td>
+
+</tr>
+</table>
 
 # 🛠 Tech Stack
 
-## Frontend
+<table>
+<tr>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+<td valign="top">
 
----
+### 🎨 Frontend
 
-## Backend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Redux
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+</td>
 
----
+<td valign="top">
 
-## Database
+### ⚙ Backend
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+- Node.js
+- Express.js
+- NestJS
+- GraphQL
+- Socket.io
 
----
+</td>
 
-## DevOps & Tools
+<td valign="top">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+### 🗄 Database
 
----
+- PostgreSQL
+- MongoDB
+- Redis
+- Prisma
+- Supabase
 
-## Other Technologies
+</td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+<td valign="top">
 
----
+### 🚀 DevOps
+
+- Docker
+- Kubernetes
+- AWS
+- GitHub Actions
+- Nginx
+
+</td>
+
+<td valign="top">
+
+### 🔥 Other
+
+- Python
+- Go
+- Rust
+- Web3.js
+- Solidity
+
+</td>
+
+</tr>
+</table>
 
 # 🚀 Featured Projects
 
@@ -137,58 +185,4 @@ Aplikasi manajemen keuangan pribadi.
 
 </tr>
 
-</table>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://instagram.com/USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-</a>
-
-<a href="https://youtube.com/@USERNAME">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube">
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Documenting my journey from beginner to professional developer."
-
-</div>
+</table> 
