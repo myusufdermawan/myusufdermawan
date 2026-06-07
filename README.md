@@ -3,7 +3,6 @@
 ## 👨‍💻 About Me
 I'm a passionate Fullstack Developer who loves turning ideas into real products. I enjoy working with modern technologies, building scalable applications, and contributing to open source projects.
 
-<table>
 <tr>
 
 <td align="center" width="25%">
@@ -47,7 +46,6 @@ Become Job Ready
 </td>
 
 </tr>
-</table>
 
 # 🛠 Tech Stack
 
